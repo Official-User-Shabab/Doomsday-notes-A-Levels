@@ -1,4 +1,4 @@
-## 3.1 Elementary plate tectonics                                 ∴ ≈
+                        ∴ ≈
 
 ### Divergent Continental-Continental Rift Valley
 
@@ -8,7 +8,7 @@
 
 ### Convergent Continental-Oceanic Fold Mountain
 
-## 3.2 Weathering & rocks
+
 
 ### Freeze thaw & frost shatterin (physical)
 
@@ -46,8 +46,3 @@ In areas with Temp≈26//28 C, Na & NaCO3 expand by 300%
 
 ### Organic weathering via chelation (chemical)
 
-## 3.3 Slope processes n development
-
-
-
-## 3.4 The human impact
