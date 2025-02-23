@@ -1,10 +1,23 @@
 # Tewkesbury 2007 floods ∴ ∵
 
+Costs & Impacts of flood:
+- 13 died
+- 7 K businesses flooded
+- 27 K household insurance claims
+- 414.1mm x̄ raingall across England & Wales
+- £3 B overall cost to insurers
+- 350 K people in Gloucestershire had ! H2O supply
+- 140 K people w/! H2O for 1 week
+
 Causes of flood: 
 - Heavy Rainfall : The primary cause was prolonged and intense rainfall over June and July 2007.
 - Saturated Ground : The ground was already saturated from previous rainfall, reducing its ability to absorb more water.
 - River Overflow : Rivers, including the Severn, burst their banks due to the excessive volume of water.
 - Urbanization : Increased impermeable surfaces in urban areas led to higher runoff and reduced infiltration.
+
+Random data:
+- 2022: Welsh gov. promised £3b M in flood defenses
+- Gov. promised to spend £5.2 B over 5 years to fund flood defenses
 
 ## River Severn
 
@@ -54,6 +67,34 @@ Length = 220 miles
     Lateral erosion continues to widen the river.
     
     Deposition occurs, especially at the river mouth where the flow is slowed by the sea.
-    
 
-# 
+## Engineering (to prevent)
+
+### Hard Engineering
+
+    Dam of Llyn Clywedog (River Severn)
+    Dredging in Gloucestershire
+    Embankments at Bewdley
+
+### Soft Engineering
+
+    Flood warnings
+    Floodplain zoning
+    Afforestation
+
+# Migration stuff
+
+## UN Migration Report 2020
+
+    Legal migrants make up 181.4 M of economic migration
+    Migration increased by 98 M est 1995
+    Migration is mostly international of ages 30-34
+    4.2 M Asylum seekers
+
+## China
+
+    1980: x.urban.pop = 170 M von Σ∀ = 970 M
+    2020: x.urban.pop = 850 M von Σ∀ = 1.4 B
+    SEZ Programme 1980
+    1980: x.trade.worth w/ USA = $5 B
+    2020: x.trade.worth w/ USA = $665 B
