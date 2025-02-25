@@ -5,6 +5,8 @@ Costs & Impacts of flood:
 - 7 K businesses flooded
 - 27 K household insurance claims
 - 414.1mm x̄ raingall across England & Wales
+- Sewage overflow & contaminated waterways
+- Vegetation loss ∵ uprooted
 - £3 B overall cost to insurers
 - 350 K people in Gloucestershire had ! H2O supply
 - 140 K people w/! H2O for 1 week
