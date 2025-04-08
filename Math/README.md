@@ -18,4 +18,5 @@ Exam board: OCR A
 8. Differentiating from the first principle
 9. Derivative of sin(x) from first principles
 10. Derivative of cos(x) from first principles
-11. 
+11. Prove sqrt(2) is irrational
+12. Prove there are infinitely many prime numbers
