@@ -5,6 +5,7 @@ Exam board: OCR A
 1. Math in general is mainly: Algebra, Calculus, Trigonometry
 2. Vector angles are measured anticlockwise
 3. Integration methods: Inspection & Reverse chain rule, Substition, By parts (LIATE), Partial fractions (including top heavy), Trig identities
+4. Know sequences in depth because sometimes there are nasty questions on that stuff
 
 # Proofs you need to know
 
