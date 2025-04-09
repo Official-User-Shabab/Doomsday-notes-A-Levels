@@ -9,3 +9,4 @@ Exam board: OCR MEI
 5. There are 4 kinds of equations for argand diagram: circle, half line, perpendicular bisector, and points (complex numbers)
 6. Polar curves as (r, θ), compared to cartesian (x, y)
 7. Matrices are kind of like a collection of vectors
+8. How to pronounce hyperbolic functions: sinh="shin", cosh="kosh", tanh="tchan", csch="khoshek", sech="shek", coth="kotchan"
