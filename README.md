@@ -9,5 +9,7 @@ Even if you can't read the actual content (possibly due to some messy handwritin
 DISCLAIMER:
 
 These notes/resources may contain mistakes
+
 By using these notes/resources, I cannot accept any blame for questions you get wrong because of these notes/resources
+
 Some things may be written in a way that only makes sense to me (eg H2O is water, pure and impure, since I don't take Chemistry).
