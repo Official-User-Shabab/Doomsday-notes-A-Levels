@@ -53,6 +53,9 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
     Migration increased by 98 M est 1995
     Migration is mostly international of ages 30-34
     4.2 M Asylum seekers
+    75% of international migrants be 20-64
+    Europe hosted 82 M international migrants
+    2010-2017: Global # refugees n asylum seekers ++13 M
 
 #### Forced (Syria-Germany)
 
