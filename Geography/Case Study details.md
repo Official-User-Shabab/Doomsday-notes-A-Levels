@@ -80,7 +80,11 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
 
     Cause: Economic Disparities (wage differences, job opportunities in USA), US labor demand (agriculture, construction, services), Social Networks in the USA, & Political/Economic Instability in Mexico (püberty, lack of opportunities).
     
-    Character: Voluntary/Economic Migration, often Circular Migration, significant Family Reunification, & a large portion is Irregular Migration due to limited legal pathways.
+    Character: Voluntary/Economic Migration, often Circular Migration, significant Family Reunification.
+    Large portion is Irregular Migration due to limited legal pathways.
+    2007-present: 40.9% Mexicans in skilled jobs
+    1900-1941: 61.4% in agriculture, <10% in skilled/professional
+    2017: 86% Mexican immigrants be 18-64 y/o
     
     Scale:
     Large-Scale Flow: Approximately 10.9 M Mexican immigrants in the USA (2023), the largest foreign-born group (around 23%). Peaked at 11.7 M in 2010.
@@ -91,6 +95,12 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
     Impact:
     Origin (Mexico): Significant Remittances (record $64.7 B in 2024, 96.6% from USA, ~4.5% of GDP), average transaction ~$393. Social Costs (family separation), potential brain drain, but also reduced unemployment.
     Destination (USA): Economic Benefits (filling labor shortages, e.g., >70% of CA farmworkers undocumented, ~5% of US workforce), complex Fiscal Impacts (initial costs vs. long-term contributions), increased Social & Cultural Diversity but also social tensions & debates about assimilation (estimated 5.1 M undocumented Mexicans in 2022), major Political Impacts (immigration policy, elections).
+
+
+
+
+
+
 
 # Hydrology stuff
 
