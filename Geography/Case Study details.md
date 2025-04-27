@@ -16,7 +16,7 @@
 
 ### Internal LIC/MIC
 
-R→u Migration in LICs is slow rate. Poor R → Poor U. \\good if good gov
+R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
 
 #### Indo-China stats
 
@@ -53,6 +53,45 @@ R→u Migration in LICs is slow rate. Poor R → Poor U. \\good if good gov
     Migration increased by 98 M est 1995
     Migration is mostly international of ages 30-34
     4.2 M Asylum seekers
+
+#### Forced (Syria-Germany)
+
+Cause:
+Civil War: 
+Syrian Civil War, which began in 2011. This includes widespread violence, bombing, persecution, and the rise of extremist groups like ISIS.   
+Humanitarian Crisis: Lack of basic necessities like food, water, shelter, and healthcare due to the conflict.   
+Political Instability: Authoritarian rule, lack of democratic freedoms, and government oppression contributed to the initial unrest and subsequent conflict.   
+
+Character:
+Forced/Refugee Migration: Individuals are fleeing for their lives and safety, seeking asylum in other countries.   
+Distress Migration: Often involves perilous journeys with limited resources.   
+Vulnerable Populations: A significant proportion of migrants are women, children, and the elderly, often requiring specific support.
+
+Scale:
+Out-migration from Syria: By 2023, the UNHCR estimated that over 6.8 million Syrians were refugees globally, and an additional 6.7 million were internally displaced.
+In-migration to Germany: Between 2015 and 2016, Germany received the highest number of asylum seekers in Europe, with Syrians forming the largest group. 
+In 2016 alone, around 280,000 asylum applications were lodged by Syrians in Germany. 
+As of 2023, Germany hosts over 800,000 Syrian refugees.
+
+Pattern:
+Movement to Neighboring Countries Initially: Many Syrians initially fled to Turkey, Lebanon, and Jordan.
+Secondary Movement to Europe: Significant numbers then moved onwards to countries like Germany, Sweden, and Austria, often using irregular routes.
+Concentration in Urban Areas in Germany: Refugees tend to settle in cities with existing infrastructure, social support networks, and employment opportunities.   
+
+Impact:
+Origin (Syria):
+Estimated loss of over 15% of the pre-war population due to displacement and casualties. The working-age population has been significantly reduced.
+GDP contracted by an estimated 60-70% since the start of the conflict, with a significant loss of skilled professionals.
+Destination (Germany):
+The influx of refugees contributed to a slight increase in Germany's population growth rate during those years. 
+The proportion of the population with a migration background increased to over 26% by 2020.
+Studies by the IAB (Institute for Employment Research) suggest that while the initial costs were significant (estimated at billions of euros annually for social welfare, housing, etc.), in the long term, the integration of refugees into the labor market could have positive fiscal impacts. 
+By 2020, around 50% of refugees who arrived in 2015 were employed or in vocational training.
+Surveys have indicated varying levels of public opinion towards refugees, with integration being a key challenge. Anti-immigrant sentiment, while present, has fluctuated.
+
+#### Free (Mexico-USA)
+
+
 
 # Hydrology stuff
 
