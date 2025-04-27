@@ -61,73 +61,73 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
         3.6 M Venezuelan abroad
 
 #### Forced (Syria-Germany)
-
-Cause:
-Civil War: 
-Syrian Civil War, which began in 2011. This includes widespread violence, bombing, persecution, and the rise of extremist groups like ISIS.   
-Humanitarian Crisis: Lack of basic necessities like food, water, shelter, and healthcare due to the conflict.   
-Political Instability: Authoritarian rule, lack of democratic freedoms, and government oppression contributed to the initial unrest and subsequent conflict.   
-
-Character:
-Forced/Refugee Migration: Individuals are fleeing for their lives and safety, seeking asylum in other countries.   
-Distress Migration: Often involves perilous journeys with limited resources.   
-Vulnerable Populations: A significant proportion of migrants are women, children, and the elderly, often requiring specific support.
-
-Scale:
-Out-migration from Syria: By 2023, the UNHCR estimated that over 6.8 million Syrians were refugees globally, and an additional 6.7 million were internally displaced.
-In-migration to Germany: Between 2015 and 2016, Germany received the highest number of asylum seekers in Europe, with Syrians forming the largest group. 
-In 2016 alone, around 280,000 asylum applications were lodged by Syrians in Germany. 
-As of 2023, Germany hosts over 800,000 Syrian refugees.
-
-Pattern:
-Movement to Neighboring Countries Initially: Many Syrians initially fled to Turkey, Lebanon, and Jordan.
-Secondary Movement to Europe: Significant numbers then moved onwards to countries like Germany, Sweden, and Austria, often using irregular routes.
-Concentration in Urban Areas in Germany: Refugees tend to settle in cities with existing infrastructure, social support networks, and employment opportunities.   
-
-Impact:
-Origin (Syria):
-Estimated loss of over 15% of the pre-war population due to displacement and casualties. The working-age population has been significantly reduced.
-GDP contracted by an estimated 60-70% since the start of the conflict, with a significant loss of skilled professionals.
-Destination (Germany):
-The influx of refugees contributed to a slight increase in Germany's population growth rate during those years. 
-The proportion of the population with a migration background increased to over 26% by 2020.
-Studies by the IAB (Institute for Employment Research) suggest that while the initial costs were significant (estimated at billions of euros annually for social welfare, housing, etc.), in the long term, the integration of refugees into the labor market could have positive fiscal impacts. 
-By 2020, around 50% of refugees who arrived in 2015 were employed or in vocational training.
-Surveys have indicated varying levels of public opinion towards refugees, with integration being a key challenge. Anti-immigrant sentiment, while present, has fluctuated.
+    
+    Cause:
+    Civil War: 
+    Syrian Civil War, which began in 2011. Widespread violence, bombing, persecution.
+    Humanitarian Crisis: Lack of basic necessities like food, water, shelter, & healthcare due to the conflict.   
+    Political Instability: Authoritarian rule, lack of democratic freedoms, & government oppression contributed to the initial unrest & subsequent conflict.   
+    
+        Character:
+    Forced/Refugee Migration: Individuals are fleeing for their lives and safety, seeking asylum in other countries.   
+    Distress Migration: Often involves perilous journeys with limited resources.   
+    Vulnerable Populations: A significant proportion of migrants are women, children, & the elderly, often requiring specific support.
+        
+    Scale:
+    Out-migration from Syria: By 2023, the UNHCR estimated that over 6.8 M Syrians were refugees globally, and an additional 6.7 M were internally displaced.
+    In-migration to Germany: 2015-2016: Germany received the highest number of asylum seekers in Europe, Syrians forming the largest group. 
+    2016: 280 K asylum applications were lodged by Syrians in Germany. 
+    As of 2023, Germany hosts over 800 K Syrian refugees.
+    
+    Pattern:
+    Movement to Neighboring Countries Initially: Many Syrians initially fled to Turkey, Lebanon, and Jordan.
+    Secondary Movement to Europe: Significant numbers then moved onwards to countries like Germany, Sweden, and Austria, often using irregular routes.
+    Concentration in Urban Areas in Germany: Refugees tend to settle in cities with existing infrastructure, social support networks, and employment opportunities.   
+    
+    Impact:
+    Origin (Syria):
+    Estimated loss of over 15% of the pre-war population due to displacement and casualties. The working-age population has been significantly reduced.
+    GDP contracted by an estimated 60-70% since the start of the conflict, with a significant loss of skilled professionals.
+    Destination (Germany):
+    The influx of refugees contributed to a slight increase in Germany's population growth rate during those years. 
+    The proportion of the population with a migration background increased to over 26% by 2020.
+    Studies by the IAB (Institute for Employment Research) suggest that while the initial costs were significant (estimated at billions of euros annually for social welfare, housing, etc.), in the long term, the integration of refugees into the labor market could have positive fiscal impacts. 
+    By 2020, around 50% of refugees who arrived in 2015 were employed or in vocational training.
+    Surveys have indicated varying levels of public opinion towards refugees, with integration being a key challenge. Anti-immigrant sentiment, while present, has fluctuated.
 
 #### Free (Mexico-USA)
 
-Cause:
-Economic Disparities: Significant wage differences and greater job opportunities in the USA compared to Mexico.
-Demand for Labor in the USA: Sectors like agriculture, construction, and service industries in the US have historically relied on migrant labor.   
-Social Networks: Established communities of Mexican migrants in the US provide support and information for new arrivals.
-Political and Economic Instability in Mexico: While not war-driven, factors like poverty, lack of opportunities, and occasional political instability can push people to seek better prospects elsewhere.   
+    Cause:
+    Economic Disparities: Significant wage differences and greater job opportunities in the USA compared to Mexico.
+    Demand for Labor in the USA: Sectors like agriculture, construction, and service industries in the US have historically relied on migrant labor.   
+    Social Networks: Established communities of Mexican migrants in the US provide support and information for new arrivals.
+    Political and Economic Instability in Mexico: While not war-driven, factors like poverty, lack of opportunities, and occasional political instability can push people to seek better prospects elsewhere.   
+    
+    Character:
+    Voluntary/Economic Migration: Primarily driven by the search for better economic opportunities.
+    Circular Migration: Many individuals migrate temporarily for work and return to Mexico.
+    Family Reunification: Established migrants often sponsor family members to join them in the US.   
+    Irregular Migration: A significant portion of this migration occurs without authorization due to complex and limited legal pathways.
 
-Character:
-Voluntary/Economic Migration: Primarily driven by the search for better economic opportunities.
-Circular Migration: Many individuals migrate temporarily for work and return to Mexico.
-Family Reunification: Established migrants often sponsor family members to join them in the US.   
-Irregular Migration: A significant portion of this migration occurs without authorization due to complex and limited legal pathways.
-
-Scale:
-Large-Scale Flow: Millions of Mexicans have migrated to the USA over decades, making it one of the largest international migration corridors globally.   
-Significant Diaspora in the USA: Well-established Mexican communities exist across many US states.   
-
-Pattern:
-Historically Concentrated in Border States: California, Texas, Arizona, and New Mexico have the largest Mexican populations.
-Increasingly Dispersed Across the USA: Mexican migrants are now found in significant numbers in other states, drawn by employment opportunities.
-Rural to Urban Movement within the US: Many migrants initially work in rural agricultural areas but later move to urban centers for more diverse opportunities.
-
-Impact:
-Origin (Mexico):
-Remittances: Significant inflow of money from migrants in the US, a crucial part of the Mexican economy.
-Social Costs: Family separation, potential loss of skilled labor (brain drain).
-Reduced Unemployment: Out-migration can alleviate some pressure on the domestic labor market.
-Destination (USA):
-Economic Benefits: Filling labor shortages, contributing to economic growth (though often in low-wage sectors).   
-Fiscal Impacts: Debates about the net impact on public services and taxes.
-Social and Cultural Impacts: Increased cultural diversity, but also potential for social tensions, debates about assimilation, and the status of undocumented migrants.
-Political Impacts: Immigration policy is a major political issue, influencing elections and legislation. 
+    Scale:
+    Large-Scale Flow: Millions of Mexicans have migrated to the USA over decades, making it one of the largest international migration corridors globally.   
+    Significant Diaspora in the USA: Well-established Mexican communities exist across many US states.   
+    
+    Pattern:
+    Historically Concentrated in Border States: California, Texas, Arizona, and New Mexico have the largest Mexican populations.
+    Increasingly Dispersed Across the USA: Mexican migrants are now found in significant numbers in other states, drawn by employment opportunities.
+    Rural to Urban Movement within the US: Many migrants initially work in rural agricultural areas but later move to urban centers for more diverse opportunities.
+    
+    Impact:
+    Origin (Mexico):
+    Remittances: Significant inflow of money from migrants in the US, a crucial part of the Mexican economy.
+    Social Costs: Family separation, potential loss of skilled labor (brain drain).
+    Reduced Unemployment: Out-migration can alleviate some pressure on the domestic labor market.
+    Destination (USA):
+    Economic Benefits: Filling labor shortages, contributing to economic growth (though often in low-wage sectors).   
+    Fiscal Impacts: Debates about the net impact on public services and taxes.
+    Social and Cultural Impacts: Increased cultural diversity, but also potential for social tensions, debates about assimilation, and the status of undocumented migrants.
+    Political Impacts: Immigration policy is a major political issue, influencing elections and legislation. 
 
 # Hydrology stuff
 
