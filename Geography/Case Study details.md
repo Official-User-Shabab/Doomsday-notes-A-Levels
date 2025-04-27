@@ -1,4 +1,62 @@
-# Tewkesbury 2007 floods ∴ ∵
+# Migration stuff     ∴ ∵ ≈ Σ ∀ →
+
+## Case studies overview
+
+    Internal HIC = London and UK
+    Internal LIC/MIC = India and China
+    International Forced = Syria and Germany
+    International Free = Mexico and USA
+
+### Internal HIC
+
+    Urban pop in HICs ≈ 80%
+    London pop peak 1939: 8.6 M but 2015 tops this
+    R→U (Iceland): 1973 volcano eruption, by 2014, whose homes destroyed and migrated had incomes $3 K > !destroyed
+    2010-2015: 300 K von London nach UK others
+
+### Internal LIC/MIC
+
+R→u Migration in LICs is slow rate. Poor R → Poor U. \\good if good gov
+
+#### Indo-China stats
+
+|    |  India  |  China  |
+| ------------- |:-------------:| --------:|
+| GNI/Capita | $2,130 | $10,410 |
+| x.pop size | 1.45 B | 1.4 B |
+| Rural:Urban | 65:35 | 35:65 |
+| State Creation | 1947 |1949 |
+
+#### India
+
+    Growth rates of Delhi
+    1971 = 52.93%
+    1981 = 53.00%
+    2011 = 20.94%
+    2021 = 37.31%
+
+    Slum Area in Kalwa near Mumbai
+
+#### China
+
+    1980: x.urban.pop = 170 M von Σ∀ = 970 M
+    2020: x.urban.pop = 850 M von Σ∀ = 1.4 B
+    SEZ Programme 1980
+    1980: x.trade.worth w/ USA = $5 B
+    2020: x.trade.worth w/ USA = $665 B
+
+### International
+
+#### UN Migration Report 2020
+
+    Legal migrants make up 181.4 M of economic migration
+    Migration increased by 98 M est 1995
+    Migration is mostly international of ages 30-34
+    4.2 M Asylum seekers
+
+# Hydrology stuff
+
+## Tewkesbury 2007 floods
 
 Costs & Impacts of flood:
 - 13 died
@@ -83,20 +141,3 @@ Length = 220 miles
     Flood warnings
     Floodplain zoning
     Afforestation
-
-# Migration stuff
-
-## UN Migration Report 2020
-
-    Legal migrants make up 181.4 M of economic migration
-    Migration increased by 98 M est 1995
-    Migration is mostly international of ages 30-34
-    4.2 M Asylum seekers
-
-## China
-
-    1980: x.urban.pop = 170 M von Σ∀ = 970 M
-    2020: x.urban.pop = 850 M von Σ∀ = 1.4 B
-    SEZ Programme 1980
-    1980: x.trade.worth w/ USA = $5 B
-    2020: x.trade.worth w/ USA = $665 B
