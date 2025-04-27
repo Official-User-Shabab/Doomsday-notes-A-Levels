@@ -1,17 +1,17 @@
-# Migration stuff     ∴ ∵ ≈ Σ ∀ →
+![image](https://github.com/user-attachments/assets/640fe38f-3b0d-4b43-8f98-c174b7ec0656)# Migration stuff     ∴ ∵ ≈ Σ ∀ →
 
-## Case studies overview
+## Case studies überview
 
-    Internal HIC = London and UK
-    Internal LIC/MIC = India and China
-    International Forced = Syria and Germany
-    International Free = Mexico and USA
+    Internal HIC = London & UK
+    Internal LIC/MIC = India & China
+    International Forced = Syria & Germany
+    International Free = Mexico & USA
 
 ### Internal HIC
 
     Urban pop in HICs ≈ 80%
     London pop peak 1939: 8.6 M but 2015 tops this
-    R→U (Iceland): 1973 volcano eruption, by 2014, whose homes destroyed and migrated had incomes $3 K > !destroyed
+    R→U (Iceland): 1973 volcano eruption, by 2014, whose homes destroyed & migrated had incomes $3 K > !destroyed
     2010-2015: 300 K von London nach UK others
 
 ### Internal LIC/MIC
@@ -61,73 +61,36 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
         3.6 M Venezuelan abroad
 
 #### Forced (Syria-Germany)
+
+    Cause: Civil War (since 2011) leading to widespread violence, humanitarian crisis (lack of basic needs), & political instability/oppression.
     
-    Cause:
-    Civil War: 
-    Syrian Civil War, which began in 2011. Widespread violence, bombing, persecution.
-    Humanitarian Crisis: Lack of basic necessities like food, water, shelter, & healthcare due to the conflict.   
-    Political Instability: Authoritarian rule, lack of democratic freedoms, & government oppression contributed to the initial unrest & subsequent conflict.   
+    Character: Forced/Refugee Migration driven by survival, perilous journeys (Distress Migration), involving vulnerable populations (women, children, elderly).
     
-        Character:
-    Forced/Refugee Migration: Individuals are fleeing for their lives and safety, seeking asylum in other countries.   
-    Distress Migration: Often involves perilous journeys with limited resources.   
-    Vulnerable Populations: A significant proportion of migrants are women, children, & the elderly, often requiring specific support.
-        
     Scale:
-    Out-migration from Syria: By 2023, the UNHCR estimated that over 6.8 M Syrians were refugees globally, and an additional 6.7 M were internally displaced.
-    In-migration to Germany: 2015-2016: Germany received the highest number of asylum seekers in Europe, Syrians forming the largest group. 
-    2016: 280 K asylum applications were lodged by Syrians in Germany. 
-    As of 2023, Germany hosts over 800 K Syrian refugees.
+    Out-migration (Syria): über 6.8 M refugees globally (UNHCR, 2023).
+    In-migration (Germany): Peak in 2015-2016, with Syrians being the largest group. 280,000 asylum applications by Syrians in 2016. über 800,000 Syrian refugees in Germany by 2023.
     
-    Pattern:
-    Movement to Neighboring Countries Initially: Many Syrians initially fled to Turkey, Lebanon, and Jordan.
-    Secondary Movement to Europe: Significant numbers then moved onwards to countries like Germany, Sweden, and Austria, often using irregular routes.
-    Concentration in Urban Areas in Germany: Refugees tend to settle in cities with existing infrastructure, social support networks, and employment opportunities.   
+    Pattern: Initial movement to neighboring countries (Turkey, Lebanon, Jordan), then secondary movement to Europe (Germany, Sweden, Austria) using irregular routes. Concentration in urban areas in Germany.
     
     Impact:
-    Origin (Syria):
-    Estimated loss of over 15% of the pre-war population due to displacement and casualties. The working-age population has been significantly reduced.
-    GDP contracted by an estimated 60-70% since the start of the conflict, with a significant loss of skilled professionals.
-    Destination (Germany):
-    The influx of refugees contributed to a slight increase in Germany's population growth rate during those years. 
-    The proportion of the population with a migration background increased to over 26% by 2020.
-    Studies by the IAB (Institute for Employment Research) suggest that while the initial costs were significant (estimated at billions of euros annually for social welfare, housing, etc.), in the long term, the integration of refugees into the labor market could have positive fiscal impacts. 
-    By 2020, around 50% of refugees who arrived in 2015 were employed or in vocational training.
-    Surveys have indicated varying levels of public opinion towards refugees, with integration being a key challenge. Anti-immigrant sentiment, while present, has fluctuated.
+    Origin (Syria): über 15% population loss, significant reduction in working-age population, GDP contracted by 60-70%, loss of skilled workers.
+    Destination (Germany): Slight increase in population growth rate. über 26% of the population with a migration background by 2020. Significant initial costs for social welfare & housing, but potential for long-term positive fiscal impacts with ~50% employment/vocational training rate by 2020 for 2015 arrivals. Varying public opinion & integration challenges.
 
 #### Free (Mexico-USA)
 
-    Cause:
-    Economic Disparities: Significant wage differences and greater job opportunities in the USA compared to Mexico.
-    Demand for Labor in the USA: Sectors like agriculture, construction, and service industries in the US have historically relied on migrant labor.   
-    Social Networks: Established communities of Mexican migrants in the US provide support and information for new arrivals.
-    Political and Economic Instability in Mexico: While not war-driven, factors like poverty, lack of opportunities, and occasional political instability can push people to seek better prospects elsewhere.   
+    Cause: Economic Disparities (wage differences, job opportunities in USA), US labor demand (agriculture, construction, services), Social Networks in the USA, & Political/Economic Instability in Mexico (püberty, lack of opportunities).
     
-    Character:
-    Voluntary/Economic Migration: Primarily driven by the search for better economic opportunities.
-    Circular Migration: Many individuals migrate temporarily for work and return to Mexico.
-    Family Reunification: Established migrants often sponsor family members to join them in the US.   
-    Irregular Migration: A significant portion of this migration occurs without authorization due to complex and limited legal pathways.
-
+    Character: Voluntary/Economic Migration, often Circular Migration, significant Family Reunification, & a large portion is Irregular Migration due to limited legal pathways.
+    
     Scale:
-    Large-Scale Flow: Millions of Mexicans have migrated to the USA over decades, making it one of the largest international migration corridors globally.   
-    Significant Diaspora in the USA: Well-established Mexican communities exist across many US states.   
+    Large-Scale Flow: Approximately 10.9 M Mexican immigrants in the USA (2023), the largest foreign-born group (around 23%). Peaked at 11.7 M in 2010.
+    Significant Diaspora: Concentrated in California (36%) & Texas (22%), also significant in Illinois (6%) & Arizona (5%). Major cities include Los Angeles (14%), Chicago (6%), Houston, Dallas, Riverside (around 5% each).
     
-    Pattern:
-    Historically Concentrated in Border States: California, Texas, Arizona, and New Mexico have the largest Mexican populations.
-    Increasingly Dispersed Across the USA: Mexican migrants are now found in significant numbers in other states, drawn by employment opportunities.
-    Rural to Urban Movement within the US: Many migrants initially work in rural agricultural areas but later move to urban centers for more diverse opportunities.
+    Pattern: Historically concentrated in border states (CA, TX, AZ, NM), but increasingly dispersed across the USA (FL, WA, GA, NV, NC, NY). Rural to Urban Movement within the US.
     
     Impact:
-    Origin (Mexico):
-    Remittances: Significant inflow of money from migrants in the US, a crucial part of the Mexican economy.
-    Social Costs: Family separation, potential loss of skilled labor (brain drain).
-    Reduced Unemployment: Out-migration can alleviate some pressure on the domestic labor market.
-    Destination (USA):
-    Economic Benefits: Filling labor shortages, contributing to economic growth (though often in low-wage sectors).   
-    Fiscal Impacts: Debates about the net impact on public services and taxes.
-    Social and Cultural Impacts: Increased cultural diversity, but also potential for social tensions, debates about assimilation, and the status of undocumented migrants.
-    Political Impacts: Immigration policy is a major political issue, influencing elections and legislation. 
+    Origin (Mexico): Significant Remittances (record $64.7 B in 2024, 96.6% from USA, ~4.5% of GDP), average transaction ~$393. Social Costs (family separation), potential brain drain, but also reduced unemployment.
+    Destination (USA): Economic Benefits (filling labor shortages, e.g., >70% of CA farmworkers undocumented, ~5% of US workforce), complex Fiscal Impacts (initial costs vs. long-term contributions), increased Social & Cultural Diversity but also social tensions & debates about assimilation (estimated 5.1 M undocumented Mexicans in 2022), major Political Impacts (immigration policy, elections).
 
 # Hydrology stuff
 
@@ -138,21 +101,21 @@ Costs & Impacts of flood:
 - 7 K businesses flooded
 - 27 K household insurance claims
 - 414.1mm x̄ raingall across England & Wales
-- Sewage overflow & contaminated waterways
+- Sewage überflow & contaminated waterways
 - Vegetation loss ∵ uprooted
-- £3 B overall cost to insurers
+- £3 B überall cost to insurers
 - 350 K people in Gloucestershire had ! H2O supply
 - 140 K people w/! H2O for 1 week
 
 Causes of flood: 
-- Heavy Rainfall : The primary cause was prolonged and intense rainfall over June and July 2007.
+- Heavy Rainfall : The primary cause was prolonged & intense rainfall über June & July 2007.
 - Saturated Ground : The ground was already saturated from previous rainfall, reducing its ability to absorb more water.
-- River Overflow : Rivers, including the Severn, burst their banks due to the excessive volume of water.
-- Urbanization : Increased impermeable surfaces in urban areas led to higher runoff and reduced infiltration.
+- River überflow : Rivers, including the Severn, burst their banks due to the excessive volume of water.
+- Urbanization : Increased impermeable surfaces in urban areas led to higher runoff & reduced infiltration.
 
 Random data:
 - 2022: Welsh gov. promised £3b M in flood defenses
-- Gov. promised to spend £5.2 B over 5 years to fund flood defenses
+- Gov. promised to spend £5.2 B über 5 years to fund flood defenses
 
 ## River Severn
 
@@ -169,33 +132,33 @@ Length = 220 miles
     
     The geology = mainly hard rocks: shale (impermeable) & grit. 
     
-    Near source, channel = narrow & shallow & full of angular stones, ∴friction with the bed and banks slow the river down. 
+    Near source, channel = narrow & shallow & full of angular stones, ∴friction w/ the bed & banks slow the river down. 
     
-    The river mainly erodes vertically, forming V shaped valley w/ steep slopes, where processes such as soil creep and mass movement are active.
+    The river mainly erodes vertically, forming V shaped valley w/ steep slopes, where processes such as soil creep & mass movement are active.
     
   ### The Middle Course
     
     Rainfall drops to below 700mm per year here. 
     
-    The rocks (softer and more permeable): sandstones, conglomerates & gravel. 
+    The rocks (softer & more permeable): sandstones, conglomerates & gravel. 
     
-    The river is wider and deeper.
+    The river is wider & deeper.
     
-    The river now erodes sideways (lateral erosion) as well as downwards, ∴valley becomes wider and flatter, creating a flood plain.
+    The river now erodes sideways (lateral erosion) as well as downwards, ∴valley becomes wider & flatter, creating a flood plain.
     
-    Deposition occurs on the inside bends of meanders and during flooding.
+    Deposition occurs on the inside bends of meanders & during flooding.
     
-    Sediment in the river is becoming smaller and rounded.
+    Sediment in the river is becoming smaller & rounded.
     
     As more tributaries join the Severn, its discharge increases.
     
   ### The Lower Course
     
-    lower Severn valley.geology = mainly soft mudstone and lias covered with alluvium, sand and gravel.
+    lower Severn valley.geology = mainly soft mudstone & lias cübered w/ alluvium, sand & gravel.
     
     The river channel is much wider, 70m by the time it gets to Tewkesbury.
     
-    Because the channel is wide and deep there, friction-- ∴velocity at highest.
+    Because the channel is wide & deep there, friction-- ∴velocity at highest.
     
     Major tributaries discharge++ even more. 
     
