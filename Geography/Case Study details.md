@@ -50,12 +50,15 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
 #### UN Migration Report 2020
 
     Legal migrants make up 181.4 M of economic migration
-    Migration increased by 98 M est 1995
+    est 1995: Migration increased by 98 M
     Migration is mostly international of ages 30-34
     4.2 M Asylum seekers
     75% of international migrants be 20-64
     Europe hosted 82 M international migrants
     2010-2017: Global # refugees n asylum seekers ++13 M
+    2019: 79.5 M forcibly displaced people global
+        45.7 M internally
+        3.6 M Venezuelan abroad
 
 #### Forced (Syria-Germany)
 
@@ -94,7 +97,37 @@ Surveys have indicated varying levels of public opinion towards refugees, with i
 
 #### Free (Mexico-USA)
 
+Cause:
+Economic Disparities: Significant wage differences and greater job opportunities in the USA compared to Mexico.
+Demand for Labor in the USA: Sectors like agriculture, construction, and service industries in the US have historically relied on migrant labor.   
+Social Networks: Established communities of Mexican migrants in the US provide support and information for new arrivals.
+Political and Economic Instability in Mexico: While not war-driven, factors like poverty, lack of opportunities, and occasional political instability can push people to seek better prospects elsewhere.   
 
+Character:
+Voluntary/Economic Migration: Primarily driven by the search for better economic opportunities.
+Circular Migration: Many individuals migrate temporarily for work and return to Mexico.
+Family Reunification: Established migrants often sponsor family members to join them in the US.   
+Irregular Migration: A significant portion of this migration occurs without authorization due to complex and limited legal pathways.
+
+Scale:
+Large-Scale Flow: Millions of Mexicans have migrated to the USA over decades, making it one of the largest international migration corridors globally.   
+Significant Diaspora in the USA: Well-established Mexican communities exist across many US states.   
+
+Pattern:
+Historically Concentrated in Border States: California, Texas, Arizona, and New Mexico have the largest Mexican populations.
+Increasingly Dispersed Across the USA: Mexican migrants are now found in significant numbers in other states, drawn by employment opportunities.
+Rural to Urban Movement within the US: Many migrants initially work in rural agricultural areas but later move to urban centers for more diverse opportunities.
+
+Impact:
+Origin (Mexico):
+Remittances: Significant inflow of money from migrants in the US, a crucial part of the Mexican economy.
+Social Costs: Family separation, potential loss of skilled labor (brain drain).
+Reduced Unemployment: Out-migration can alleviate some pressure on the domestic labor market.
+Destination (USA):
+Economic Benefits: Filling labor shortages, contributing to economic growth (though often in low-wage sectors).   
+Fiscal Impacts: Debates about the net impact on public services and taxes.
+Social and Cultural Impacts: Increased cultural diversity, but also potential for social tensions, debates about assimilation, and the status of undocumented migrants.
+Political Impacts: Immigration policy is a major political issue, influencing elections and legislation. 
 
 # Hydrology stuff
 
