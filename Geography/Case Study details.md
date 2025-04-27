@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/640fe38f-3b0d-4b43-8f98-c174b7ec0656)# Migration stuff     ∴ ∵ ≈ Σ ∀ →
+# Migration stuff     ∴ ∵ ≈ Σ ∀ →
 
 ## Case studies überview
 
