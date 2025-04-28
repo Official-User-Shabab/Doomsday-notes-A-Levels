@@ -13,6 +13,9 @@
     London pop peak 1939: 8.6 M but 2015 tops this
     R→U (Iceland): 1973 volcano eruption, by 2014, whose homes destroyed & migrated had incomes $3 K > !destroyed
     2010-2015: 300 K von London nach UK others
+    52% internal migration in 2009-2015 was by 16-30 y/o
+    2011: 38% of movers had a degree
+    41% of London's residents born outside the UK
 
 ### Internal LIC/MIC
 
@@ -47,18 +50,26 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
 
 ### International
 
-#### UN Migration Report 2020
+#### General migration data
 
     Legal migrants make up 181.4 M of economic migration
     est 1995: Migration increased by 98 M
     Migration is mostly international of ages 30-34
-    4.2 M Asylum seekers
     75% of international migrants be 20-64
     Europe hosted 82 M international migrants
     2010-2017: Global # refugees n asylum seekers ++13 M
-    2019: 79.5 M forcibly displaced people global
+    2019: 272 M international migrants
+        79.5 M forcibly displaced people global
+        4.2 M Asylum seekers global
         45.7 M internally
         3.6 M Venezuelan abroad
+    17-18C: 15 M von Africa nach Murica
+    USA GNI/capita = $56,000
+    11% ∀ undergrads study abroad at some point
+    Native-born American high school dropouts wages coz immigration:
+        George Borjas: -1.7%
+        Giovanni Peri: +0.6%
+    London has 200 languages+
 
 #### Forced (Syria-Germany)
 
