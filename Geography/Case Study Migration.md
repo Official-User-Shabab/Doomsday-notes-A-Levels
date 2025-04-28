@@ -32,6 +32,10 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
 
 #### India
 
+    Urban migration rate = 34.9%
+    Rural migration rate = 26.5%
+    Past decades, Σ R→U migration contributed ~20% to Σ increase in urban population
+
     Growth rates of Delhi
     1971 = 52.93%
     1981 = 53.00%
@@ -47,6 +51,8 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
     SEZ Programme 1980
     1980: x.trade.worth w/ USA = $5 B
     2020: x.trade.worth w/ USA = $665 B
+    Rural migrants constitute substantial portion of the urban workforce, sometimes ≈ 40%
+    Population that are migrants 25-30%
 
 ### International
 
@@ -89,114 +95,26 @@ R→U Migration in LICs is slow rate. Poor R → Poor U. \\\good if good gov
 
 #### Free (Mexico-USA)
 
-    Cause: Economic Disparities (wage differences, job opportunities in USA), US labor demand (agriculture, construction, services), Social Networks in the USA, & Political/Economic Instability in Mexico (püberty, lack of opportunities).
+    Cause: 
+    Economic Disparities (wage differences, job opportunities in USA), US labor demand (agriculture, construction, services), Social Networks in the USA, & Political/Economic Instability in Mexico (poverty, lack of opportunities).
     
-    Character: Voluntary/Economic Migration, often Circular Migration, significant Family Reunification.
+    Character: 
+    Voluntary/Economic Migration, often Circular Migration, significant Family Reunification.
     Large portion is Irregular Migration due to limited legal pathways.
     2007-present: 40.9% Mexicans in skilled jobs
     1900-1941: 61.4% in agriculture, <10% in skilled/professional
     2017: 86% Mexican immigrants be 18-64 y/o
     
     Scale:
-    Large-Scale Flow: Approximately 10.9 M Mexican immigrants in the USA (2023), the largest foreign-born group (around 23%). Peaked at 11.7 M in 2010.
-    Significant Diaspora: Concentrated in California (36%) & Texas (22%), also significant in Illinois (6%) & Arizona (5%). Major cities include Los Angeles (14%), Chicago (6%), Houston, Dallas, Riverside (around 5% each).
+    Large-Scale Flow: 2023: ~10.9 M Mexican immigrants in USA, largest foreign-born group (around 23%). Peaked 2010 = 11.7 M
+    Significant Diaspora: 
+    Concentrated in California (36%) & Texas (22%), also significant in Illinois (6%) & Arizona (5%). 
+    Major cities include Los Angeles (14%), Chicago (6%), Houston, Dallas, Riverside (around 5% each).
     
-    Pattern: Historically concentrated in border states (CA, TX, AZ, NM), but increasingly dispersed across the USA (FL, WA, GA, NV, NC, NY). Rural to Urban Movement within the US.
+    Pattern: 
+    Historically concentrated in border states (CA, TX, AZ, NM), but increasingly dispersed across USA (FL, WA, GA, NV, NC, NY). 
+    Rural to Urban Movement within the US.
     
     Impact:
     Origin (Mexico): Significant Remittances (record $64.7 B in 2024, 96.6% from USA, ~4.5% of GDP), average transaction ~$393. Social Costs (family separation), potential brain drain, but also reduced unemployment.
     Destination (USA): Economic Benefits (filling labor shortages, e.g., >70% of CA farmworkers undocumented, ~5% of US workforce), complex Fiscal Impacts (initial costs vs. long-term contributions), increased Social & Cultural Diversity but also social tensions & debates about assimilation (estimated 5.1 M undocumented Mexicans in 2022), major Political Impacts (immigration policy, elections).
-
-
-
-
-
-
-
-# Hydrology stuff
-
-## Tewkesbury 2007 floods
-
-Costs & Impacts of flood:
-- 13 died
-- 7 K businesses flooded
-- 27 K household insurance claims
-- 414.1mm x̄ raingall across England & Wales
-- Sewage überflow & contaminated waterways
-- Vegetation loss ∵ uprooted
-- £3 B überall cost to insurers
-- 350 K people in Gloucestershire had ! H2O supply
-- 140 K people w/! H2O for 1 week
-
-Causes of flood: 
-- Heavy Rainfall : The primary cause was prolonged & intense rainfall über June & July 2007.
-- Saturated Ground : The ground was already saturated from previous rainfall, reducing its ability to absorb more water.
-- River überflow : Rivers, including the Severn, burst their banks due to the excessive volume of water.
-- Urbanization : Increased impermeable surfaces in urban areas led to higher runoff & reduced infiltration.
-
-Random data:
-- 2022: Welsh gov. promised £3b M in flood defenses
-- Gov. promised to spend £5.2 B über 5 years to fund flood defenses
-
-## River Severn
-
-Drainage basin size (River Severn) = 4,409 square miles
-
-Length = 220 miles
-
-    
-  ### The Upper course
-    
-    The source of the River Severn is on the slopes of the Plynlimon Hills, 610m a.s.l.
-    
-    Here in the welsh hills, annual rainfall > 2500mm & run off = high, ∵the steep upland slopes. 
-    
-    The geology = mainly hard rocks: shale (impermeable) & grit. 
-    
-    Near source, channel = narrow & shallow & full of angular stones, ∴friction w/ the bed & banks slow the river down. 
-    
-    The river mainly erodes vertically, forming V shaped valley w/ steep slopes, where processes such as soil creep & mass movement are active.
-    
-  ### The Middle Course
-    
-    Rainfall drops to below 700mm per year here. 
-    
-    The rocks (softer & more permeable): sandstones, conglomerates & gravel. 
-    
-    The river is wider & deeper.
-    
-    The river now erodes sideways (lateral erosion) as well as downwards, ∴valley becomes wider & flatter, creating a flood plain.
-    
-    Deposition occurs on the inside bends of meanders & during flooding.
-    
-    Sediment in the river is becoming smaller & rounded.
-    
-    As more tributaries join the Severn, its discharge increases.
-    
-  ### The Lower Course
-    
-    lower Severn valley.geology = mainly soft mudstone & lias cübered w/ alluvium, sand & gravel.
-    
-    The river channel is much wider, 70m by the time it gets to Tewkesbury.
-    
-    Because the channel is wide & deep there, friction-- ∴velocity at highest.
-    
-    Major tributaries discharge++ even more. 
-    
-    Lateral erosion continues to widen the river.
-    
-    Deposition occurs, especially at the river mouth where the flow is slowed by the sea.
-
-## Engineering (to prevent)
-
-### Hard Engineering
-
-    Dam of Llyn Clywedog (River Severn)
-    Dredging in Gloucestershire
-    Embankments at Bewdley
-
-### Soft Engineering
-
-    Flood warnings
-    Floodplain zoning
-    Afforestation
