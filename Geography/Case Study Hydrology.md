@@ -27,7 +27,9 @@ Random data:
 
 Drainage basin size (River Severn) = 4,409 square miles
 
-Length = 220 miles
+River spans for 350 km
+
+Carries 9 B L jeden Tag
 
     
   ### The Upper course
@@ -41,6 +43,8 @@ Length = 220 miles
     Near source, channel = narrow & shallow & full of angular stones, ∴friction w/ the bed & banks slow the river down. 
     
     The river mainly erodes vertically, forming V shaped valley w/ steep slopes, where processes such as soil creep & mass movement are active.
+
+    Waterfall and Ironbridge Gorge downstream
     
   ### The Middle Course
     
@@ -57,6 +61,8 @@ Length = 220 miles
     Sediment in the river is becoming smaller & rounded.
     
     As more tributaries join the Severn, its discharge increases.
+
+    Meanders in Shrewsbury.
     
   ### The Lower Course
     
