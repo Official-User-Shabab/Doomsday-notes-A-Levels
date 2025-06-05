@@ -12,6 +12,8 @@ v^2-u^2 = 2as
 
 s = ut + (at^2)/2
 
+s = vt - (at^2)/2
+
 ### Conversion within units
 
 | P (peta) | T (tera) | G (giga) | M (mega) | k (kilo) | c (centi) | m (milli) | μ (micro) | n (nano) | p (pico) | f (femto) |
@@ -27,3 +29,11 @@ Cation positive. Anion negative.
 Ohm’s law as a special case where I ∝ V under constant physical conditions.
 
 Applications of superconductors to include the production of strong magnetic fields and the reduction of energy loss in transmission of electric power.
+
+Net Force = Directional Force - Opposing Forces
+
+Transistors are just electrically controlled switches, with capacitors at the input.
+
+365 days = 24 × 60 × 60 seconds
+
+Maths is super useful, especially calculus when it comes to deriving formulae and trigonometry for geometric and some vector stuff.
